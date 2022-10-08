@@ -9,7 +9,10 @@
 <img src="https://img.shields.io/badge/Discord-auroraveil%233741-brightgreen?style=social&logo=discord&logoColor=5865F2"/></a></center>
 
 **Interests:** `Deep Learning` `Computer Vision`
+
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luden31930)](https://solved.ac/profile/luden31930)
 
 <br><br>
 
