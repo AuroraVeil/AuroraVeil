@@ -10,9 +10,9 @@
 
 **Interests:** `Deep Learning` `Computer Vision`
 
-</div>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luden31930)](https://solved.ac/profile/luden31930)
+
+</div>
 
 <br><br>
 
