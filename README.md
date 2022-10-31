@@ -4,10 +4,7 @@
 
 <div align=center>
 
-### Contact
-<center><img src="https://img.shields.io/badge/Gmail-it2019100042%40gmail.com-brightgreen?style=social&logo=gmail&logoColor=red"/></a></center>
-
-<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luden31930)](https://solved.ac/profile/luden31930)
 
 **Interests:** `Deep Learning` `Computer Vision` `Object Detection`
 
@@ -53,8 +50,7 @@
 
 <div align=center>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luden31930)](https://solved.ac/profile/luden31930)
-
-![wolfrosnet's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolfrosnet&show_icons=true&theme=tokyonight)
+### Contact
+<center><img src="https://img.shields.io/badge/Gmail-it2019100042%40gmail.com-brightgreen?style=social&logo=gmail&logoColor=red"/></a></center>
 
 </div>
