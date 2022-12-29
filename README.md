@@ -55,3 +55,8 @@
 <center><img src="https://img.shields.io/badge/Gmail-it2019100042%40gmail.com-brightgreen?style=social&logo=gmail&logoColor=red"/></a></center>
 
 </div>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/wolfrosnet/count.svg" />
+</p>
