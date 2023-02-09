@@ -2,7 +2,7 @@
 
 <div align=center>
 
-**Interests:** `Deep Learning` `Computer Vision`
+**Interests:** `Deep Learning` `Computer Vision` `Meta-Learning`
 
 </div>
 
@@ -22,7 +22,6 @@
 | :-: | :-: | :-: | :-: | :-: |
 |`Dacon`|[병변 검출 AI 경진대회](https://dacon.io/competitions/official/235855/leaderboard)|4/250|2.0%| - |
 |`Dacon`|[🥈월간 데이콘 숫자 3D 이미지 분류 AI 경진대회](https://dacon.io/competitions/official/235951/overview/description)|2/165|1.21%|[**2위 수상**](https://dacon.io/competitions/official/235951/leaderboard)|
-|`삼육대학교`|[🥇2022 SW해커톤 대회](https://dacon.io/competitions/official/235979/leaderboard)|1/26|3.84%|대상|
 |`Dacon`|[AI 양재 허브 인공지능 오픈소스 경진대회](https://dacon.io/competitions/official/235977/overview/description)|8/124|6.45%| - |
 |`Dacon`|[🏅SW중심대학 공동 AI 경진대회](https://dacon.io/competitions/official/235970/talkboard/407202?page=1&dtype=recent)|14/77|18.18%|장려상(소프트웨어중심대학협의회장)|
 |`Dacon`|[🥇월간 데이콘 예술 작품 화가 분류 AI 경진대회](https://dacon.io/competitions/official/236006/overview/description)|1/215|0.16%|[**1위 수상**](https://dacon.io/competitions/official/236006/leaderboard)|
@@ -34,16 +33,8 @@
 |기관명|내용|구분|비고|
 | :-: | :-: | :-: | :-: |
 |`한국장학재단`|[국가우수(이공계) 장학생](https://www.kosaf.go.kr/ko/scholar.do?pg=scholarship05_06_01)|장학금|2021-1 ~ 2022-2|
-|`삼육대학교`|[🥇2022 SW비교과프로그램 아이디어 공모전](https://www.syu.ac.kr/blog/sw%ec%a4%91%ec%8b%ac%eb%8c%80%ed%95%99%ec%82%ac%ec%97%85%eb%8b%a8sw%eb%b9%84%ea%b5%90%ea%b3%bc%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8-%ec%95%84%ec%9d%b4%eb%94%94%ec%96%b4-%ea%b3%b5%eb%aa%a8%ec%a0%84-3/)|수상|최우수상(1위)|
-|`삼육대학교`|[🥇2022 SW프로젝트 경진대회](https://www.syu.ac.kr/blog/sw%ec%a4%91%ec%8b%ac%eb%8c%80%ed%95%99%ec%82%ac%ec%97%85%eb%8b%a8-2022-sw%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ea%b2%bd%ec%a7%84%eb%8c%80%ed%9a%8c/?pageds=2&k=&t=&c=)|수상|대상|
 |`한국전자통신연구원`|[🏅DNA+드론 챌린지 2022 Type I. 지정공모](http://challenge-dnadrone.com/)|수상|장려상(DNA+드론포럼의장상)|
 |`한국전자통신연구원`|[🥇DNA+드론 챌린지 2022 Type II. 지정공모](http://challenge-dnadrone.com/)|수상|[**대상(과학기술정보통신부장관상)**](https://www.etri.re.kr/kor/bbs/view.etri?keyField=&keyWord=&nowPage=1&b_board_id=ETRI06&year_gubun=&b_idx=18901)|
-
-<br>
-
-### 👥 ***Projects***
-
-- **센서 기반의 인터액티브 환경에서 노인 인지-운동 훈련 프로그램 개발**<br> 삼육대학교, 2021년 6월부터
 
 <br>
 
@@ -55,10 +46,3 @@
 <center><img src="https://img.shields.io/badge/Gmail-it2019100042%40gmail.com-brightgreen?style=social&logo=gmail&logoColor=red"/></a></center>
 
 </div>
-
-<br>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/wolfrosnet/count.svg" />
-</p>
