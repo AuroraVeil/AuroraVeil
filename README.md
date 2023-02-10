@@ -2,6 +2,11 @@
 
 <div align=center>
 
+### Contact
+<center><img src="https://img.shields.io/badge/Gmail-it2019100042%40gmail.com-brightgreen?style=social&logo=gmail&logoColor=red"/></a></center>
+
+<br>
+
 **Interests:** `Deep Learning` `Computer Vision` `Meta-Learning`
 
 </div>
@@ -37,12 +42,3 @@
 |`한국전자통신연구원`|[🥇DNA+드론 챌린지 2022 Type II. 지정공모](http://challenge-dnadrone.com/)|수상|[**대상(과학기술정보통신부장관상)**](https://www.etri.re.kr/kor/bbs/view.etri?keyField=&keyWord=&nowPage=1&b_board_id=ETRI06&year_gubun=&b_idx=18901)|
 
 <br>
-
-<div align=center>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luden31930)](https://solved.ac/profile/luden31930)
-
-### Contact
-<center><img src="https://img.shields.io/badge/Gmail-it2019100042%40gmail.com-brightgreen?style=social&logo=gmail&logoColor=red"/></a></center>
-
-</div>
